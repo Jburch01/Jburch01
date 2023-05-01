@@ -110,7 +110,7 @@ This README.md file is my GitHub profile
 <body>
     <div>
         <a href="https://github.com/Jburch01/diabetes_classification_project" target ="_blank">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jburch01&repo=CLI-Command-Line-Interface-Personalization" alt="Josh Burch"/>
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jburch01&repo=diabetes_classification_project" alt="Josh Burch"/>
         </a>
         <!--- Additional Repositories
         <a href="https://github.com/Jburch01" target ="_blank">
