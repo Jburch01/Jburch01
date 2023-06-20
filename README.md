@@ -31,9 +31,17 @@ This README.md file is my GitHub profile
 
 
 <!--- Snapshot of Events -->
-- Data Science 20-Week program began on 17JAN2023, graduates 16JUN2023 and am ready to begin collaborating on projects
-- Twitch Streamer from Oct 2019 - Jan 2023
-- 📫 Reach me at **joshuaburch01@gmail.com**
+
+<h2>Data Science 20-Week Program Graduate | Twitch Streamer | Collaboration-Ready</h2>
+Welcome to my GitHub profile! I recently completed the Data Science 20-Week program, which commenced on January 17, 2023, and concluded on June 16, 2023. Equipped with a strong foundation in data science, I am now ready to embark on exciting collaborative projects.
+
+Prior to my data science journey, I had the opportunity to be a Twitch streamer from October 2019 to January 2023. This experience not only honed my streaming skills but also cultivated my passion for engaging with diverse audiences and creating captivating content.
+
+If you have any questions, project proposals, or simply want to connect, feel free to reach out to me at joshuaburch01@gmail.com. I am always open to new opportunities and collaborations.
+
+Let's join forces and leverage the power of data to drive innovation and create impactful solutions!
+
+📫 Contact me: joshuaburch01@gmail.com
 
 
 <!--- Social Networks - Connect with me -->
