@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I recently completed the Data Science 20-Week prog
 
 Prior to my data science journey, I had the opportunity to be a Twitch streamer from October 2019 to January 2023. This experience not only honed my streaming skills but also cultivated my passion for engaging with diverse audiences and creating captivating content.
 
-If you have any questions, project proposals, or simply want to connect, feel free to reach out to me at joshuaburch01@gmail.com. I am always open to new opportunities and collaborations.
+If you have any questions, project proposals, or simply want to connect, feel free to reach out to me. I am always open to new opportunities and collaborations.
 
 Let's join forces and leverage the power of data to drive innovation and create impactful solutions!
 
