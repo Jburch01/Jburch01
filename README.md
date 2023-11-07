@@ -15,7 +15,7 @@ This README.md file is my GitHub profile
     <meta name="author" content="Josh Burch">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h1 align="center">
-        Hi, I'm Josh Burch <br> from Florida, USA 🇺🇸
+        Hi, I'm Josh Burch 
     </h1>
 </head>
 
